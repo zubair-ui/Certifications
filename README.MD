@@ -45,6 +45,12 @@
 
 ---
 
+## Software Testing
+
+- Iqra University Software Test Automation Bootcamp
+
+---
+
 ## Others
 
 - AWSome Day Conference Participation Certificate
